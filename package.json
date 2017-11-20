@@ -1,0 +1,25 @@
+{
+  "name": "codetest",
+  "version": "1.0.1",
+  "description": "tic tac toe game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunnayak/codetest.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunnayak/codetest/issues"
+  },
+  "homepage": "https://github.com/arunnayak/codetest#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
